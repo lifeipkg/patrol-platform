@@ -1,5 +1,6 @@
 package com.patrol.platform.pipeline;
 
+import com.patrol.platform.model.Decision;
 import com.patrol.platform.model.PatrolVerdict;
 
 import java.util.Map;
